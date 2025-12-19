@@ -28,4 +28,5 @@ This project focuses on analyzing the performance of the Olist e-commerce platfo
   -Delivery delays negatively impact customer satisfaction.
 
 **Conclusion**
+
   The analysis highlights operational efficiency, especially reducing delivery time, as the most critical factor for improving customer satisfaction and overall business performance. Data-driven insights from this project can support strategic decisions in logistics, customer experience, and sales optimization.
